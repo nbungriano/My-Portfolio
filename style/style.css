@@ -188,6 +188,10 @@ h2 {
 
 }
 
+.project-text-1 {
+  font-size: 35px;
+}
+
 .project-text:hover {
     color: rgb(73, 73, 73);
     font-size: 18px;
